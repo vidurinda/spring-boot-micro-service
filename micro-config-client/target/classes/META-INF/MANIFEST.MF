@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: micro-config-client
+Implementation-Version: 1.0
+Built-By: vidurinda
+Implementation-Vendor-Id: com.ices.vt
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/micro-config-client
+Created-By: Maven Integration for Eclipse
+
